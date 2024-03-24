@@ -1,3 +1,4 @@
+![1000005637](https://github.com/iotaledger/iota-sdk/assets/164736506/f1979303-670e-484a-87ae-134681a76be0)
 # Changelog
 
 All notable changes to this project will be documented in this file.
